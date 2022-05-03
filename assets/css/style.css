@@ -457,7 +457,7 @@ section {
 .about .image {
   background: url("../img/new-portfolio-pic.png") center center no-repeat;
   background-size: cover;
-  min-height: 400px;
+  min-height: 600px;
 }
 @media (max-width: 991px) {
   .about .image {
